@@ -1845,6 +1845,19 @@ CGTN英语,http://live.cgtn.com/500/prog_index.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 乌鲁木齐维语综合,http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/wy.m3u8
 乌鲁木齐汉语综合,http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
+阿勒泰1套,https://play-a2.quklive.com/live/1704380285590041.m3u8
+阿勒泰2套,https://play-a2.quklive.com/live/1704380366011045.m3u8
+巴音郭楞1套,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+巴音郭楞2套,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+巴音郭楞3套,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+巴音郭楞4套,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+博州汉语综合,https://alitv-play.boznews.cn/live/bttv1.m3u8?auth_key=1718209426-0-0-ddc1781460bc7b5062ae943c6d7164af
+博州蒙语综合,https://alitv-play.boznews.cn/live/bttv2.m3u8?auth_key=1718209433-0-0-b44e8fb277a810bbde60b4cf7df6bfa9
+博州维语综合,https://alitv-play.boznews.cn/live/bttv3.m3u8?auth_key=1718209451-0-0-8c6e7db80a773017dc7d8eb0d5f73453
+福海汉语综合,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
+福海维语综合,http://222.81.86.42:8060/hls/ch4/ch4.m3u8
+阜康新闻综合,http://120.69.17.15:50002/live/test1.m3u8
+哈密2套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711.flv#https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 
 云南,#genre#
 宾川一套,http://live.bcrmtzx.com/tv01/sd/live.m3u8
