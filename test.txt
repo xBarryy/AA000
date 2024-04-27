@@ -1858,6 +1858,9 @@ CGTN英语,http://live.cgtn.com/500/prog_index.m3u8
 福海维语综合,http://222.81.86.42:8060/hls/ch4/ch4.m3u8
 阜康新闻综合,http://120.69.17.15:50002/live/test1.m3u8
 哈密2套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711.flv#https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+塔城一套,http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
+塔城二套,http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+塔城三套,http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
 
 云南,#genre#
 宾川一套,http://live.bcrmtzx.com/tv01/sd/live.m3u8
